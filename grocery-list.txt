@@ -4,3 +4,5 @@ Rice
 Chicken
 Orange Juice
 Coffee
+Pears
+Cherries
